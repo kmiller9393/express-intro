@@ -29,3 +29,5 @@ app.get('/json', (request, response) => {
 app.listen(3000, () => {
   console.log('Express Intro running on localhost:3000');
 });
+
+//Worked on Challenges 1, 3 and 4 at the bottom of the Medium article
